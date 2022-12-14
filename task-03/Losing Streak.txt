@@ -1,0 +1,21 @@
+(n,m)=map(int,input().split())
+t1=m/n
+t=m%n
+
+if t!=0:
+    print(-1)
+elif t1 ==0:
+    print(0)
+elif n>m:
+    print(-1)
+    
+elif t == 0 and (t1%3==0 or t1%2==0):
+    n=0
+    while t1 !=1:
+        if t1%3 == 0:
+            t1=t1/3
+            n+=1
+        else:
+            t1=t1/2
+            n+=1
+    print(n)

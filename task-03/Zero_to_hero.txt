@@ -1,0 +1,24 @@
+t = int(input())
+
+
+for i in range(t):
+  n = int(input())
+  levels = list(map(int, input().split()))
+  
+  
+  min_level = 100
+  max_level = 0
+  
+  
+  for level in levels:
+    min_level = min(min_level, level)
+    max_level = max(max_level, level)
+  
+  
+  if min_level == max_level:
+    mana = n
+  else:
+    mana = n + (max_level - min_level)
+  
+  
+  print(mana)

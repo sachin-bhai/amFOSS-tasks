@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vlzF0tCr8aY9OPhHdDwgGcf1nlqLAM/2tNFkiMSPXYJvEE4f22CsjcJixqItIJFHAvCHmutNDGm+nmFYYUX89Q==",
+  "success": true,
+  "projectFilePath": "/home/sachin/amFOSS--tasks/task-05/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/sachin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
