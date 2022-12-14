@@ -10,7 +10,7 @@
 [Task-04](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-04)|CineBot|Completed
 [Task-05](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-05)|Find The Bug|Completed
 [Task-07](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-07)|Go WASM|Partially Done
-[Task-08](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-08)Internet Explorer|Completed
+[Task-08](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-08)|Internet Explorer|Completed
 [Task-09](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-09)|Krpto Scrapper|Completed
 [Task-10](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/tasks-10)|CS50|Partially Done
 [Task-13](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/tasks-13)|FootFall Counter|Completed
