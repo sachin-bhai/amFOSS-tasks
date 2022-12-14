@@ -1,6 +1,6 @@
 # amfoss-tasks-
 # Sachin Shreekumar
-**I am Sachin Shreekumar, Kerala from ECE 2022 batch**
+**I am Sachin Shreekumar, Kerala from ECE 2022 batch, Amritapuri Campus**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-00)|Installing Ubuntu|Completed
