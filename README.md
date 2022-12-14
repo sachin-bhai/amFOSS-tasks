@@ -1,6 +1,6 @@
 # amfoss-tasks-
-# Akshat Tripathi
-**I am Akshat Tripathi from Gorakhpur Uttar Pradesh,fresher at Amrita School of Engineering(EAC 2020)**
+# Sachin Shreekumar
+**I am Sachin Shreekumar, Kerala from ECE 2022 batch**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00]|Installing Ubuntu|Completed
@@ -20,12 +20,8 @@
 [Task-14]
 [Task-15]
 ## My views about the tasks
-I myself have not completed all the tasks so i cannot directly say that they were easy but yaa they were not of that type that they 
-would be out of the range of freshers.They were so amazing that i cannot have a particular word to describe them.They challange us to 
-increase our knowledge that is the best part of it.The tasks are designed to cultivate the habit of self learning in which they are 
-successful atleast in my case.
+I suppose the tasks were pretty hard especially the Flutter and Telebot tasks.But if I were to say that they were impossible to do then I would be wrong since much of them unravelled themselves in a few days time.Overall great learning curve for me.
 ## My Introduction
-Hii Seniors :pray: I am Akshat Tripathi from Gorakhpur Uttar Pradesh.I came to know about amFOSS from quora since then it fascinated me.
-I feel the club will provide me ample opportunities to develop my skills and knowledge.I am a noob in the field of coding and I only knew 
-JAVA to an extent but after attempting the tasks I personally find a great improvement in my knowledge this is what I basically want from 
-me that each day when I get up in the morning I find myself improved than the previous day and this is what doing the tasks i have achieved.
+Hello Seniors. I'm Sachin Shreekumar from Kerala. I have very less prior experience in coding since I was a Bio student in 12th but I'm willing to put my 200% into becoming an expert. I also want to teach young coders too one day so that they too can discover the joys of programming.
+Thank you and regards.
+Sachin Shreekumar
