@@ -16,6 +16,8 @@ I want to make open source contributions to either Flutter or ML projects. For o
 
 I'd put the club assigned tasks on top priority and take part in any events hosted by the club.
 
+### Thoughts on the praveshan
+Great tasks and learned a lot during the process of completing the tasks.
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/sachin-bhai/amFOSS-tasks/tree/main/task-00)|Installing Linux|Completed
