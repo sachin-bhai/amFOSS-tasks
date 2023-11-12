@@ -4,6 +4,6 @@ This was my first time creating a discord bot so I watched a YouTube video on it
 
 It has three commands as per the requirements.
 
-**/livescore to recieve live match updates**
-**/generate to recieve a csv of all currently ongoing matches!!**
+**/livescore to recieve live match updates**<br>
+**/generate to recieve a csv of all currently ongoing matches!!**<br>
 **/help to receive command list**
