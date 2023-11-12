@@ -1,0 +1,7 @@
+n = String.to_integer(IO.gets("Enter a number:"))
+primes = Enum.filter(2..n, fn i ->
+  is_prime = Enum.all?(2..div(i, 2), fn j -> rem(i, j) != 0 end)
+  if is_prime, do: i
+end)
+Enum.each(primes, fn prime -> IO.puts(prime) end)
+

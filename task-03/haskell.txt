@@ -1,0 +1,15 @@
+import System.IO
+
+isPrime :: Integer -> Bool
+isPrime n
+    | n <= 1 = False
+    | n <= 3 = True
+    | otherwise = all (\x -> n `mod` x /= 0) [2..intSqrt n]
+    where
+        intSqrt = floor . sqrt . fromIntegral
+
+main :: IO ()
+main = do
+    n <- readLn
+    let primes = [x | x <- [2..n], isPrime x]
+    mapM_ print primes

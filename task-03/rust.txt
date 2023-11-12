@@ -1,0 +1,25 @@
+use std::io;
+
+fn main() {
+    let mut input = String::new();
+    io::stdin().read_line(&mut input).expect("Failed to read input");
+    let n: u32 = input.trim().parse().expect("Invalid input");
+
+    let mut primes = Vec::new();
+    for i in 2..=n {
+        let mut is_prime = true;
+        for j in 2..(i as f64).sqrt() as u32 + 1 {
+            if i % j == 0 {
+                is_prime = false;
+                break;
+            }
+        }
+        if is_prime {
+            primes.push(i);
+        }
+    }
+
+    for prime in primes {
+        println!("{}", prime);
+    }
+}
